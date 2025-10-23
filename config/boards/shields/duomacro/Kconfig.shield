@@ -1,0 +1,5 @@
+config SHIELD_DUOMACRO_LEFT
+    def_bool $(shields_list_contains,duomacro_left)
+
+config SHIELD_DUOMACRO_RIGHT
+    def_bool $(shields_list_contains,duomacro_right)
