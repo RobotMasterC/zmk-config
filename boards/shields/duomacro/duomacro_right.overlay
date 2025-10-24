@@ -1,4 +1,4 @@
-#include <duomacro.dtsi>
+#include "duomacro.dtsi"
 
 &default_transform {
     col-offset = <6>;
